@@ -1,0 +1,15 @@
+package exception_generation;
+
+public class ClassCastExce {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+class Child extends ClassCastExce{
+	ClassCastExce obj = new ClassCastExce();
+	Child obj2 = (Child)obj;
+}

@@ -1,0 +1,5 @@
+package exception_generation;
+
+public class ClassCastException {
+
+}

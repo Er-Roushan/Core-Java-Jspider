@@ -1,0 +1,19 @@
+package array_list;
+import java.util.*;
+public class ArrayListImpli {
+
+	public static void main(String[] args) {
+		
+		ArrayList obj = new ArrayList();
+		obj.add("Roushan");
+		obj.add(5);
+		
+		System.out.println(obj);
+//		
+//		foreach(Object o : obj){
+//			
+//		}
+
+	}
+
+}

@@ -1,0 +1,17 @@
+package exception_generation;
+import java.util.*;
+public class InputMismatchException {
+
+	public static void main(String[] args) {
+		Scanner obj = new Scanner(System.in);
+		
+		
+		System.out.print("enter string: ");
+		obj.nextLine();
+		String str = obj.nextLine();
+		System.out.println(str);
+		obj.close();
+
+	}
+
+}

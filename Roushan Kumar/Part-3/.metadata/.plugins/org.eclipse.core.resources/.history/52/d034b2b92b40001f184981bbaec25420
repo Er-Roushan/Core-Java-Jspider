@@ -1,0 +1,10 @@
+package exception_generation;
+
+public class StackOverFlowExce {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

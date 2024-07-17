@@ -1,0 +1,24 @@
+package constructorConcept;
+
+public class BoolFloatDoubleArgConst {
+	
+	float b;
+	boolean bool;
+	double db;
+	public BoolFloatDoubleArgConst(boolean a, float f, double d) {
+		 b=f;
+		 bool = a;
+		 db = d;
+		System.out.println("Object created...");
+		System.out.println(bool + " "+ b +" "+ db);
+	}
+public static void main(String[] args) {
+	
+	BoolFloatDoubleArgConst obj = new BoolFloatDoubleArgConst(true, 7.3f, 4.56);
+	System.out.println(obj);
+	
+	
+
+}
+
+}

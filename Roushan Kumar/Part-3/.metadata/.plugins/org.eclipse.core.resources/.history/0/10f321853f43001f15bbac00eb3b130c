@@ -1,0 +1,23 @@
+package exception_handling;
+
+
+public class ClassCastExcHandling {
+
+}
+
+class Child extends ClassCastExcHandling{
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//ClassCastExce obj = new ClassCastExce();
+		try {
+		Child obj2 = (Child)new ClassCastExcHandling();
+		}
+		catch(ClassCastException obj) {
+			System.out.println("You are not storing a specific ref inside a reference variable.");
+		}
+		
+		System.out.println("Exception Handled");
+	}
+	
+}

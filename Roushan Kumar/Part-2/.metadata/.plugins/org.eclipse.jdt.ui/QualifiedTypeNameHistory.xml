@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="additionProg.Addition"/>
+    <fullyQualifiedTypeName name="divProg.Division"/>
+    <fullyQualifiedTypeName name="multiProg.Multiplication"/>
+    <fullyQualifiedTypeName name="operationProg.Count"/>
+    <fullyQualifiedTypeName name="operationProg.Cube"/>
+    <fullyQualifiedTypeName name="operationProg.Factorial"/>
+    <fullyQualifiedTypeName name="operationProg.Power"/>
+    <fullyQualifiedTypeName name="operationProg.Factors"/>
+    <fullyQualifiedTypeName name="operationProg.Square"/>
+    <fullyQualifiedTypeName name="subProg.Substraction"/>
+    <fullyQualifiedTypeName name="technicalevents.TechnicalEvents"/>
+    <fullyQualifiedTypeName name="gamingevents.GamingEvents"/>
+    <fullyQualifiedTypeName name="offstageevents.OffStageEvents"/>
+    <fullyQualifiedTypeName name="onstageevents.OnStageEvents"/>
+    <fullyQualifiedTypeName name="starperfomance.StarPerformance"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

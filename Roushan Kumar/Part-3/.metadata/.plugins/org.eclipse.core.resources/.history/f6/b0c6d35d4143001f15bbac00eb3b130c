@@ -1,0 +1,18 @@
+package exception_generation;
+
+public class ClassCastExce {
+	
+		public static void main(String[] args) {
+			System.out.println("hi");
+		}
+
+	}
+
+//class Child extends ClassCastExce{
+//		
+//		public static void main(String[] args) {
+//			System.out.println("hi");
+//		}
+//		
+//}
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=Inheritance/src&lt;singleLevelInheritance{Measurement.java[Measurement" modifiers="1" timestamp="1713707588772"/>
+    <typeInfo handle="=Inheritance/src&lt;singleLevelInheritance{Number.java[Number" modifiers="1" timestamp="1713707945148"/>
+    <typeInfo handle="=Inheritance/src&lt;singleLevelInheritance{Customer.java[Customer" modifiers="1" timestamp="1713708999417"/>
+    <typeInfo handle="=Inheritance/src&lt;singleLevelInheritance{PowerNumber.java[PowerNumber" modifiers="1" timestamp="1713709318609"/>
+    <typeInfo handle="=Inheritance/src&lt;hybridInheritance{Data.java[Data" modifiers="1" timestamp="1713709794504"/>
+    <typeInfo handle="=Inheritance/src&lt;hybridInheritance{AddSubCal.java[AddSubCal" modifiers="1" timestamp="1713710073355"/>
+    <typeInfo handle="=Inheritance/src&lt;hierarchicalInheritance{Data.java[Data" modifiers="1" timestamp="1713710575826"/>
+    <typeInfo handle="=Inheritance/src&lt;multilevelInheritance{College.java[College" modifiers="1" timestamp="1713711225506"/>
+    <typeInfo handle="=Inheritance/src&lt;multilevelInheritance{Internal.java[Internal" modifiers="1" timestamp="1713711261722"/>
+    <typeInfo handle="=Non-Primitive-TypeCating/src&lt;typeCastingNP{Vegetable.java[Vegetable" modifiers="1" timestamp="1713838392817"/>
+    <typeInfo handle="=Non-Primitive-TypeCating/src&lt;downCastingNP{Cab.java[Cab" modifiers="1" timestamp="1713891671618"/>
+</typeInfoHistroy>

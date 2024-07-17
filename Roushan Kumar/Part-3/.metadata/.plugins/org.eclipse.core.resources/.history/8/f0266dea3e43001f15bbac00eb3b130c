@@ -1,0 +1,16 @@
+package exception_handling;
+
+public class NullPtrHandling {
+	
+	public static void main(String[] args) {
+        
+        String nullString = null;	        
+
+        try {
+        int length = nullString.length();	        
+        }
+        catch()
+        System.out.println("The length of the string is: " + length);
+    }
+
+}
