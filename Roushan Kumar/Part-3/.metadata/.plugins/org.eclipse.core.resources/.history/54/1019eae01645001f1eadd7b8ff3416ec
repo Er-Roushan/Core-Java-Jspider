@@ -1,0 +1,29 @@
+package array_list;
+import java.util.*;
+public class NonGenricColDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Collection c = new ArrayList();
+		System.out.println(c); //[]
+		System.out.println(c.size()); //0
+		System.out.println(c.isEmpty()); //true
+		System.out.println(c.hashCode()); //1
+		System.out.println(c.add(5));  //true
+//		System.out.println(c.addAll(c));
+		System.out.println(c.hashCode());
+		c.add("Roushan");
+		c.add('r');
+		c.add(true);
+		c.add(18.8);
+		System.out.println("===============");
+		System.out.println(c.size()); //5
+		System.out.println(c.isEmpty()); //false
+		System.out.println(c.hashCode());
+		
+		
+
+	}
+
+}
