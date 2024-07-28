@@ -14,14 +14,19 @@ Below is a list of assignments provided during the course. Each assignment focus
 
 1: Basic Java Programs
    - Topics: Variables, Data Types, Operators
+     
 2: Control Statements
    - Topics: If-Else, Switch, Loops
+     
 3: Arrays and Strings
    - Topics: Array Manipulation, String Handling
+     
 4: Object-Oriented Programming
    - Topics: Classes, Objects, Inheritance, Polymorphism
+     
 5: Exception Handling
    - Topics: Try-Catch, Custom Exceptions
+     
 6: Collections Framework
    - Topics: List, Set, Map
 
